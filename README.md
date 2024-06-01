@@ -9,11 +9,17 @@ Both datasets contain tweets with their corresponding sentiment labels. The data
 **Libraries Used**
 
 nltk: Natural Language Toolkit for text processing
+
 pandas: Data manipulation and analysis
+
 matplotlib & seaborn: Data visualization
+
 re: Regular expressions for text processing
+
 sklearn: Machine learning library
+
 wordcloud: Visualization of text data
+
 numpy: Numerical computations
 
 **Data Preprocessing**
