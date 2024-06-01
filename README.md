@@ -7,6 +7,7 @@ Test Dataset: test.csv
 Both datasets contain tweets with their corresponding sentiment labels. The datasets are loaded and explored for missing values and basic statistics.
 
 **Libraries Used**
+
 nltk: Natural Language Toolkit for text processing
 pandas: Data manipulation and analysis
 matplotlib & seaborn: Data visualization
@@ -31,6 +32,7 @@ TF-IDF Vectorization:
 Conversion of text data into TF-IDF features with a maximum of 100,000 features.
 
 **Models**
+
 1-Logistic Regression:
 Implementation using sklearn.linear_model.LogisticRegression.
 Trained with L2 penalty and a maximum of 500 iterations.
